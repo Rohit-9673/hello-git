@@ -1,1 +1,5 @@
 "Welcome to git Hub Practicles "
+
+This line is added in the featuer1 branch.
+
+We will try to merge with main branch
